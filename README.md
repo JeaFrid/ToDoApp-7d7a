@@ -2,4 +2,4 @@
 
 Bu uygulamada amacımız bir görev planlayıcı yapmaktı. Toplamda bir saat elliyedi dakikada yavaş yavaş bu uygulamayı geliştirdik. Tüm kaynak kodları burada bulabilir ve istediğiniz gibi kullanabilirsiniz. Herhangi bir telif hakkına tabii değildir.
 
-Yapım Aşamaları: https://www.youtube.com/watch?v=wDVNoO1wO3Q
+Yapım Aşamaları: [https://www.youtube.com/watch?v=wDVNoO1wO3Q](https://youtube.com/live/wDVNoO1wO3Q)https://youtube.com/live/wDVNoO1wO3Q
